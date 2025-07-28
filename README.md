@@ -1,3 +1,188 @@
+# Adobe India Hackathon 2025 – Round 2 Submission
+
+This repository contains the complete submission for Round 2 of the **Adobe India Hackathon 2025**, including:
+
+- **Challenge 1A**: Multilingual PDF Outline Extraction
+- **Challenge 1B**: Persona-Based Content Extraction
+
+---
+
+## Challenge 1A: Multilingual PDF Outline Extraction
+
+# Multilingual PDF Outline Extractor
+
+This repository contains a Python-based solution for extracting the **hierarchical structure (Title, H1, H2, H3)** from multilingual PDF documents using OCR and robust heuristics. This solution is designed for the Adobe India Hackathon Round 1A and is fully hackathon-compliant.
+
+---
+
+## 🚀 Problem Statement (Adobe India Hackathon Round 1A)
+
+Given a PDF (up to 50 pages, any language), extract a structured outline including:
+- Document Title
+- Headings and subheadings (H1, H2, H3)
+- Page numbers
+
+The output must be a valid JSON file in the format:
+```json
+{
+  "title": "Document Title",
+  "outline": [
+    { "level": "H1", "text": "Heading", "page": 1 },
+    { "level": "H2", "text": "Subheading", "page": 2 },
+    { "level": "H3", "text": "Subsubheading", "page": 3 }
+  ]
+}
+```
+
+---
+
+## 🗂 Project Structure
+
+```
+Challenge_1A/
+│
+├── input/                        # Input folder for PDF files (any language)
+    ├── *.pdf                                # PDF documents (any language)
+├── output/                       # Output folder for extracted outlines
+    └── *.json                    
+├── multilingual_outline_extractor.py # Main extraction script (multilingual)
+├── requirements.txt              # Python dependencies
+├── Dockerfile                    # Containerization for hackathon
+└── README.md                     
+```
+
+---
+
+## ⚙️ System & Docker Requirements
+
+- **CPU-only** (amd64, no GPU)
+- **No network/internet calls**
+- **Model size ≤ 200MB**
+- **All dependencies installed in the container**
+- **Docker AMD64 compatible**
+
+### Tesseract Language Packs Used
+- English (`eng`)
+- Chinese Simplified (`chi_sim`)
+- Italian (`ita`)
+- Assamese (`asm`)
+
+---
+
+## 📦 Python Setup (for local testing)
+
+Install dependencies using pip:
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 🐳 How to Build and Run (Docker)
+
+### 1. Build the Docker image:
+```bash
+docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier .
+```
+
+### 2. Run the solution:
+```bash
+docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --network none mysolutionname:somerandomidentifier
+```
+
+- All PDFs in `/app/input` will be processed.
+- For each `filename.pdf`, a `filename.json` will be created in `/app/output`.
+
+---
+
+## 🧠 Approach & Methodology
+
+1. **PDF to Images**:  
+   Uses `pdf2image` to convert every page of each PDF into images. **DPI is set to 120 for speed**.
+
+2. **OCR with Tesseract**:  
+   Each page image is processed using `pytesseract` with the appropriate language pack (auto-detected from filename or content).
+
+3. **Parallel Processing**:  
+   **OCR is run in parallel across pages** using Python's `ThreadPoolExecutor` for maximum speed and to meet the 10-second/50-page requirement.
+
+4. **Heading Detection**:  
+   For each OCR-extracted line, robust heuristics are applied:
+   - Short lines, numbering patterns, and language-specific tweaks
+   - No reliance on font size (per hackathon pro tips)
+   - Language-agnostic, but with special handling for Chinese, Italian, Assamese, and English
+
+5. **Heading Level Classification**:  
+   - Based on word/character count and numbering
+   - Assigns H1, H2, or H3
+
+6. **Output**:  
+   - For each PDF, a JSON file is created in the required format
+   - Title is the filename (without extension)
+
+7. **Performance**:  
+   - Optimized for ≤10 seconds on a 50-page PDF (lower DPI, parallel processing)
+   - No network calls, no file-specific logic, no hardcoding
+
+8. **Robustness**:  
+   - Handles errors gracefully, logs progress, and validates input/output
+
+---
+
+## 📁 Sample Output (Excerpt)
+
+```json
+{
+  "title": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+  "outline": [
+    { "level": "H1", "text": "Introduzione", "page": 1 },
+    { "level": "H2", "text": "Contesto Storico", "page": 2 },
+    { "level": "H3", "text": "Dettagli", "page": 3 }
+  ]
+}
+```
+
+---
+
+## 📋 Submission Checklist
+- [x] Processes all PDFs in `/app/input`, outputs to `/app/output`
+- [x] Multilingual: English, Chinese, Italian, Assamese
+- [x] No hardcoded logic, no network calls, CPU-only
+- [x] Dockerfile AMD64, all dependencies included
+- [x] README.md with approach, models/libraries, build/run instructions
+
+---
+
+## 🔗 Libraries Used
+- `pytesseract` (OCR)
+- `pdf2image` (PDF to image conversion)
+- `Pillow` (Image handling)
+- `tesseract-ocr` (with language packs)
+
+---
+
+## 🏆 Scoring Criteria Addressed
+- **Heading Detection Accuracy**: Robust heuristics, language-specific tweaks
+- **Performance**: Fast, efficient, Dockerized, parallelized
+- **Multilingual**: Bonus points for supporting multiple languages
+
+---
+
+## ❗ What Not to Do (Compliant)
+- No hardcoded headings or file-specific logic
+- No API or web calls
+- No exceeding runtime/model size constraints
+
+---
+
+## 👨‍💻 Authors
+- Team: Jyotishman, Suvadip and Mehul
+
+
+---
+
+## Challenge 1B: Persona-Based Content Extraction
+
 # Adobe India Hackathon 2025 - "Connecting the Dots Through Docs"
 ## Complete Solution: Round 1A + Round 1B
 
@@ -30,32 +215,11 @@ Build an intelligent document analyst that:
 ## 🏗️ Complete Solution Architecture
 
 ```
-Challenge_1A/
-├── input/                                    # Input directory containing PDF documents
-│   ├── e01_978-3-499-55628-9_01_006298746.pdf  # English PDF document
-│   ├── file02.pdf                             # Additional PDF document
-│   ├── Zini+Weyland+2025+Atti+SIPED+Perugia.pdf # Italian PDF document
-│   └── 科技期刊与预印本平台协同发展路径与策略研究.pdf # Chinese PDF document
-├── output/                                  # Output directory for extracted outlines
-│   ├── e01_978-3-499-55628-9_01_006298746.json # JSON outline for English PDF
-│   ├── file02.json                            # JSON outline for file02.pdf
-│   ├── Zini+Weyland+2025+Atti+SIPED+Perugia.json # JSON outline for Italian PDF
-│   └── 科技期刊与预印本平台协同发展路径与策略研究.json # JSON outline for Chinese PDF
-├── multilingual_outline_extractor.py        # Main Python script for outline extraction
-├── requirements.txt                         # Python dependencies
-├── Dockerfile                              # Container configuration
-├── .gitignore                              # Git ignore file
-└── README.md                               # Project documentation
-
-Challenge_1b/
+Challenge_1B/
 ├── input/                                    # Input directory
 │   ├── *.pdf                                # PDF documents (any language)
-│   ├── persona_job_input.json              # Persona configuration (Round 1B)
-│   └── ankuran_outline.json                # Pre-existing outline (optional)
 ├── output/                                  # Output directory
-│   ├── *.json                              # Round 1A: Individual PDF outlines
 │   └── round1b_output.json                 # Round 1B: Complete analysis
-├── round1a_main.py                         # Round 1A: Main execution script
 ├── round1b_main.py                         # Round 1B: Main execution script
 ├── outline_extractor.py                    # PDF outline extraction (Round 1A)
 ├── content_extractor.py                    # Content mapping (Round 1B)
@@ -63,7 +227,7 @@ Challenge_1b/
 ├── requirements.txt                        # Python dependencies
 ├── Dockerfile                              # Container configuration
 ├── approach_explanation.md                 # Round 1B methodology
-└── README.md                               # This comprehensive guide
+└── README.md                               
 ```
 
 ---
@@ -84,9 +248,6 @@ cd Challenge_1B
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Run Round 1A (Single PDF Outline Extraction)
-python3 round1a_main.py
 
 # Run Round 1B (Multi-PDF Persona Analysis)
 python3 round1b_main.py
