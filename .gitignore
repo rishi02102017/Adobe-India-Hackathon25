@@ -1,0 +1,204 @@
+# ------------------------------
+# Python Bytecode and Build Files
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ------------------------------
+# Distribution / Packaging
+# ------------------------------
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ------------------------------
+# PyInstaller
+# ------------------------------
+*.manifest
+*.spec
+
+# ------------------------------
+# Unit Test / Coverage
+# ------------------------------
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+test_*
+*_test.py
+tests/
+
+# ------------------------------
+# Virtual Environments
+# ------------------------------
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ------------------------------
+# Jupyter and IPython
+# ------------------------------
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# ------------------------------
+# pyenv / pipenv / PEP 582
+# ------------------------------
+.python-version
+Pipfile.lock
+__pypackages__/
+
+# ------------------------------
+# macOS Specific
+# ------------------------------
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# ------------------------------
+# Windows Specific
+# ------------------------------
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+Desktop.ini
+$RECYCLE.BIN/
+
+# ------------------------------
+# Linux Specific
+# ------------------------------
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ------------------------------
+# IDEs and Editors
+# ------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ------------------------------
+# Docker
+# ------------------------------
+.dockerignore
+
+# ------------------------------
+# Temporary / Backup Files
+# ------------------------------
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+logs/
+
+# ------------------------------
+# Databases / Secrets
+# ------------------------------
+*.db
+*.sqlite
+*.sqlite3
+config.ini
+secrets.json
+.env.local
+.env.production
+
+# ------------------------------
+# Documentation and Markdown
+# ------------------------------
+docs/
+docs/_build/
+*.md
+!README.md
+
+# ------------------------------
+# Large Files and Inputs
+# ------------------------------
+*.pdf.bak
+*.pdf.tmp
+*.tar.gz
+*.zip
+*.rar
+
+# ------------------------------
+# Project-Specific Ignore
+# ------------------------------
+
+# For input and output folders: keep structure, ignore contents
+input/*
+!input/.gitkeep
+
+output/*
+!output/.gitkeep
+
+# Allow PDFs used in input only (remove if not needed)
+!input/*.pdf
+
+# Ignore temp/intermediate files inside input/output
+input/*.tmp
+input/*.temp
+output/*.tmp
+output/*.temp
