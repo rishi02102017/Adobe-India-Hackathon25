@@ -30,7 +30,24 @@ Build an intelligent document analyst that:
 ## 🏗️ Complete Solution Architecture
 
 ```
-multilingual_content_generator/
+Challenge_1A/
+├── input/                                    # Input directory containing PDF documents
+│   ├── e01_978-3-499-55628-9_01_006298746.pdf  # English PDF document
+│   ├── file02.pdf                             # Additional PDF document
+│   ├── Zini+Weyland+2025+Atti+SIPED+Perugia.pdf # Italian PDF document
+│   └── 科技期刊与预印本平台协同发展路径与策略研究.pdf # Chinese PDF document
+├── output/                                  # Output directory for extracted outlines
+│   ├── e01_978-3-499-55628-9_01_006298746.json # JSON outline for English PDF
+│   ├── file02.json                            # JSON outline for file02.pdf
+│   ├── Zini+Weyland+2025+Atti+SIPED+Perugia.json # JSON outline for Italian PDF
+│   └── 科技期刊与预印本平台协同发展路径与策略研究.json # JSON outline for Chinese PDF
+├── multilingual_outline_extractor.py        # Main Python script for outline extraction
+├── requirements.txt                         # Python dependencies
+├── Dockerfile                              # Container configuration
+├── .gitignore                              # Git ignore file
+└── README.md                               # Project documentation
+
+Challenge_1b/
 ├── input/                                    # Input directory
 │   ├── *.pdf                                # PDF documents (any language)
 │   ├── persona_job_input.json              # Persona configuration (Round 1B)
