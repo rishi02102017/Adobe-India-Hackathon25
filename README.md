@@ -5,7 +5,7 @@
 </p>
 
 
-This repository contains the complete submission for Round 2(CONNECTING THE DOTS...) of the **Adobe India Hackathon 2025**, including:
+This repository contains the complete submission for Round 2(Connecting the dots...) of the **Adobe India Hackathon 2025**, including:
 
 - **Challenge 1A**: Multilingual PDF Outline Extraction
 - **Challenge 1B**: Persona-Based Content Extraction
