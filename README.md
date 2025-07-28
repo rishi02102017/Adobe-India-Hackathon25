@@ -80,7 +80,7 @@ Challenge_1b/
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd multilingual_content_generator
+cd Challenge_1B
 
 # Install dependencies
 pip install -r requirements.txt
