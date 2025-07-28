@@ -1,7 +1,7 @@
  <h1 align="center"> Adobe India Hackathon 2025 – Round 2 Submission</h1>
 
 <p align="center">
-  <img src="SU.jpg" alt="Banner image" width="500"/>
+  <img src="Adobe_India_Hackathon.jpg" alt="Banner image" width="500"/>
 </p>
 
 
