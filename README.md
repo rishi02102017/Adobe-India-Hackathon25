@@ -1,4 +1,9 @@
-# Adobe India Hackathon 2025 – Round 2 Submission
+ <h1 align="center"> Adobe India Hackathon 2025 – Round 2 Submission</h1>
+
+<p align="center">
+  <img src="SU.jpg" alt="Banner image" width="500"/>
+</p>
+
 
 This repository contains the complete submission for Round 2 of the **Adobe India Hackathon 2025**, including:
 
