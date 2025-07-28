@@ -1,0 +1,480 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Ankuran (Pratham Bhag) (Language (L1))_Class 1_Assamese medium.pdf",
+      "科技期刊与预印本平台协同发展路径与策略研究.pdf",
+      "Zini+Weyland+2025+Atti+SIPED+Perugia.pdf",
+      "e01_978-3-499-55628-9_01_006298746.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-28T18:45:18.118889",
+    "total_documents_processed": 4,
+    "total_sections_found": 33,
+    "total_sub_sections_analyzed": 28
+  },
+  "extracted_sections": [
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 7,
+      "section_title": "5. Un modello per la classificazione dei risultati",
+      "importance_rank": 2.9545454545454546,
+      "level": "H1",
+      "content": "Nel seguito vengono esposti, in forma provvisoria, alcuni dei risultati raccolti nel percorso di definizione delle possibili dimensioni comuni degli esiti apprezzabili nella molteplicità dei progetti e nella specificità dei contesti in cui EDENLAB in terviene con le comunità scolastiche. 5. Un modello per la classificazione dei risultati La struttura del modello per la classificazione dei risultati (Figura 1) è ispirata a quella proposta da Spencer et al. (2008) nel campo delleducazione alla salute. Nel modello  qui tratteggiato e più estesamente descritto in Zini (in press)  si assume che i percorsi siano accomunati da un obiettivo generale che per brevità si com pendia nel realizzare paesaggi educativi che sostengano il benessere e la qualità della relazione didattica (edenlab.unibz.it). Lesito ultimo auspicato, che dovrebbe essere co-generato dai percorsi entro un orizzonte temporale che eccede la loro durata, dipende da più fattori, definiti come Ambiente fisico, Risorse personali e Ambiente sociale. La valutazione degli esiti dei percorsi richiede che sia stimata la variazione dei fattori sulla base di elementi rilevabili che su di essi possono in cidere e che rappresentano i risultati delle azioni realizzate durante i percorsi. Figura 1. Modello per la classificazione dei risultati 6. Categorie di risultati e tracce per lindividuazione di indicatori Il modello elenca sedici categorie di risultati, di cui si fornisce qui una sintesi par ziale, e prevede la possibilità che si verifichino relazioni tra categorie associate a fattori diversi, nonché retroazioni tra elementi di rango diverso. Sono associati allambiente fisico i risultati che riguardano la qualità negoziale degli interventi sugli spazi (ovvero la corrispondenza tra le attese e le soluzioni co struttive o di allestimento adottate), la qualità estetica e laccessibilità, la qualità Panel 3  Terzo Gruppo  LEfficacia della pedagogia e della didattica nella formazione iniziale... 589"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 4,
+      "section_title": "Methodologie qualitativer Forschung",
+      "importance_rank": 2.9545454545454546,
+      "level": "H1",
+      "content": "4. Methodologie qualitativer Forschung 4.0 Einleitung 251 Uwe Flick 4.1 Design und Prozess qualitativer Forschung 252 Werner Meinefeld 4.2 Hypothesen und Vorwissen in der qualitativen Sozialforschung 265 Jo Reichertz 4.3 Abduktion, Deduktion und Induktion in der qualitativen Forschung 276 Hans Merkens 4.4 Auswahlverfahren, Sampling, Fallkonstruktion 286 Udo Kelle und Christian Erzberger 4.5 Qualitative und quantitative Methoden: kein Gegensatz 299 Uwe Flick 4.6 Triangulation in der qualitativen Forschung 309 Ines Steinke 4.7 Gütekriterien qualitativer Forschung 319 5. Qualitative Methoden und Forschungspraxis 5.0 Einleitung 332 Stephan Wolff 5.1 Wege ins Feld und ihre Varianten 334 Christel Hopf 5.2 Qualitative Interviews - ein Überblick 349"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 4,
+      "section_title": "Qualitative Methoden und Forschungspraxis",
+      "importance_rank": 2.9545454545454546,
+      "level": "H1",
+      "content": "4. Methodologie qualitativer Forschung 4.0 Einleitung 251 Uwe Flick 4.1 Design und Prozess qualitativer Forschung 252 Werner Meinefeld 4.2 Hypothesen und Vorwissen in der qualitativen Sozialforschung 265 Jo Reichertz 4.3 Abduktion, Deduktion und Induktion in der qualitativen Forschung 276 Hans Merkens 4.4 Auswahlverfahren, Sampling, Fallkonstruktion 286 Udo Kelle und Christian Erzberger 4.5 Qualitative und quantitative Methoden: kein Gegensatz 299 Uwe Flick 4.6 Triangulation in der qualitativen Forschung 309 Ines Steinke 4.7 Gütekriterien qualitativer Forschung 319 5. Qualitative Methoden und Forschungspraxis 5.0 Einleitung 332 Stephan Wolff 5.1 Wege ins Feld und ihre Varianten 334 Christel Hopf 5.2 Qualitative Interviews - ein Überblick 349"
+    },
+    {
+      "document": "科技期刊与预印本平台协同发展路径与策略研究",
+      "page_number": 9,
+      "section_title": "Collaborative development path and strategy of scientific journal",
+      "importance_rank": 2.909090909090909,
+      "level": "H1",
+      "content": "2024 年 5 月 第 35 卷 第 5 期 576 http:www.cjstp.cn 中国科技期刊研究2024355 19 Sciety. More about why Sciety was createdEB OL. 2024- 03-21. https blog.sciety.org more-about-sciety . 20 Review Commons. AboutEB OL. 2024-03-21. https www.reviewcommons.org about . 21 张新新. 出版业高质量发展的概念界定与基本特征J. 编辑之友2023315-24. 22 边晓琳董海荣吴岳峰等. 科技期刊与预印本平台协同发 展的典型模式探讨J. 中国科技期刊研究2023347 834-840. 23 图书情报工作. 图书情报工作杂志社预印本政策声 明EB OL. 2024-02-28. https www.lis.ac.cn CN column column37.shtml. 24 中国科学院文献情报中心. 文献情报中心关于促进预印本交 流的原则性意见EB OL. 2024-02-28. http www.las. cas.cn news fwcx 202209 t20220907_6510102.html. 作者贡献声明 刘敬仪:设计论文框架撰写修改论文 杨 恒:撰写修改论文 初景利:提出选题指导论文撰写修改论文 Collaborative development path and strategy of scientific journal and preprint platform LIU Jingyi 1), YANG Heng 1,2), CHU Jingli 1,2) 1) National Science Library, Chinese Academy of Sciences, 33 Beisihuan Xilu, Zhongguancun, Haidian District, Beijing 100190, China 2) Department of Information Resources Management, School of Economics and Management, University of Chinese Academy of Sciences, 33 Beisihuan Xilu, Zhongguancun, Haidian District, Beijing 100190, China Abstract: PurposesThis study aims to explore the collaborative development path between scientific journals and preprint platforms, and to propose the collaborative development strategy of scientific journals and preprint platforms, so as to provide a reference for constructing a new academic exchange model in the era of open science. MethodsWe selected representative international cases of collaboration between scientific journals and preprint platforms. With a descriptive case study approach, we summarized and sorted out the characteristics of existing typical cooperative models and extracted the collaborative development path between scientific journals and preprint platforms. FindingsThe paper identifies three collaborative paths for scientific journals and preprint platforms: resource collaboration driven by platform development, process collaboration driven by user demand, and goal collaboration driven by open science. ConclusionsIt is recommended that scientific journals and preprint stakeholders fully recognize the benefits of collaborative development, continuously enhance their awareness of collaborative development, promptly formulate policies to support collaborative development, and jointly foster an ecosystem conducive to collaborative development. Keywords: Scientific journal; Preprint platform; Preprint; Open science; Collaboration 本文责编梁永霞"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 6,
+      "section_title": "4. La valutazione degli esiti di progetti di ricerca condivisa",
+      "importance_rank": 2.303030303030303,
+      "level": "H1",
+      "content": "4. La valutazione degli esiti di progetti di ricerca condivisa Nel piano di sviluppo del laboratorio EDEN (Weyland, Zini, 2023) vi è lobiettivo di mettere a punto modelli, metodi e dispositivi per studiare e portare a sintesi gli esiti generati dai diversi percorsi, sia nei termini di un apprendimento che non si limiti alla innovazione realizzata, ma comporti una trasformazione del contesto e un cambiamento di modi di fare e di pensare degli attori (Cardarello, 2018, p. 61), sia sul secondo piano della ricerca, dove il ricercatore è direttamente interes sato a studiare lefficacia del proprio operato in qualità di facilitatore-formatore e a produrre su questo conoscenze che siano corroborate da documentazione empi rica e potenzialmente capitalizzabili. In primo luogo, sono state prese in esame al cune questioni metodologiche connesse alla valutazione dei risultati nella ricerca partecipativa e il modo in cui sono state affrontate nel campo della ricerca-forma zione, che vanta nel nostro paese unimportante tradizione. Sotto questo riguardo, ci si limita in questa sede a citare due punti di riferimento privilegiati. Allinterno della linea di ricerca che dalla metà degli anni Novanta ha condotto allapproccio di valutazione formativa dei contesti come promozione dallinterno (Bondioli, Ferrari, 2004; Bondioli, Savio, 2018), la questione è stata affrontata rivolgendo uno specifico interesse alla meta-valutazione, cioè alla valutazione della valuta zione come parte integrante di un percorso di ricerca valutativa condotta a scopo formativo da ricercatori e insegnanti (Bondioli, Savio, 2014), che serve sia alla ve rifica e al perfezionamento del modello di ricerca-formazione, sia alla facilitazione del bilancio finale del gruppo di lavoro. Lapplicazione di strumenti di meta-valu tazione comuni consente di trarre conclusioni sullefficacia del processo realizzato, sia sul piano della formazione attraverso la ricerca, sia sul piano della tenuta del modello proposto, nonché di comparare i dati raccolti da percorsi realizzati in di versi contesti tenendo conto dei loro tratti specifici. Riveste inoltre un particolare interesse il percorso intrapreso dal Centro CRESPI per sviluppare un modello operativo per valutare limpatto di un progetto di Ricerca-Formazione, identifi care contesti e condizioni che possono facilitare oppure ostacolare il suo svolgi mento e influenzare i suoi esiti, comprendere il complesso rapporto fra lapprendimento professionale e la promozione del cambiamento negli ambienti di apprendimento (Agrusti, Dodman, 2021, p. 75). La valutazione dellimpatto, definito come linsieme di processi, prodotti e consapevolezze che emergono come esiti a breve e medio termine di esperienze di ricerca-formazione (ivi, p. 78), si fonda sulla rilevazione delle testimonianze dei partecipanti tramite un pro tocollo di intervista di gruppo e sul loro esame secondo diverse prospettive di ana lisi dei dati (qualitativa, ecologica, pragmatica, discorsiva). Sono state inoltre considerate le potenzialità e i limiti degli approcci valutativi fondati su indicatori (secondo la tipologia proposta da Reed et al., 2021) organizzati in categorie o in modelli logici che forniscono un quadro in cui i risultati della ricerca possono es sere classificati agevolando la comparazione fra più casi; si è tenuto conto, in par ticolare, del modello messo a punto nello studio valutativo del progetto Fare Scuola di Fondazione Reggio Children e ENEL Cuore ONLUS (Zini, 2021). Panel 3  Terzo Gruppo  LEfficacia della pedagogia e della didattica nella formazione iniziale... 588"
+    },
+    {
+      "document": "科技期刊与预印本平台协同发展路径与策略研究",
+      "page_number": 2,
+      "section_title": "EMBO Press",
+      "importance_rank": 2.1515151515151514,
+      "level": "H1",
+      "content": "刘敬仪杨 恒初景利. 科技期刊与预印本平台协同发展路径与策略研究 http:www.cjstp.cn 569 中国科技期刊研究2024355 析缺少对协同发展路径的总结据此本研究以科 技期刊与预印本平台合作提供服务的代表性案例为 样本揭示科技期刊与预印本平台协同发展的合作 模式挖掘并分析二者的协同路径提出科技期刊与 预印本平台的协同发展策略为构建互利互惠共建 共生有效互补可持续发展的新型学术交流模式提 供参考与借鉴 1 研究对象与方法 本研究对预印本和预印本平台的定义为预 印本是作者在提交期刊出版前未经严格同行评审的 手稿投稿版录用稿通常通过预印本平台在最短 的时间内以开放获取的形式发布为作者获得成果 的网络首发权为学术交流系统提供最新最快速的 传播与利用渠道预印本平台是接收作者提交论文 手稿预印本和期刊发表后的论文后印本并为 这些研究成果提供开放交流服务的平台系统 从科技期刊与预印本平台协同合作的视角出 发在综合考虑代表性影响力新颖度的基础上 选取国际上具有代表性的合作服务案例展开分析 采用案例研究的方法通过机构官网调查结合相关 文献调研重点关注科技期刊与预印本平台的互动 行为与协作逻辑总结梳理现有典型合作模式的特 征从中提炼出科技期刊与预印本平台的协同发展 路径与机制案例具体情况见表1 2 科技期刊与预印本平台的协同模式 调研发现当前科技期刊与预印本平台主要基 于各自的稿件资源和评审资源展开互动与合作依 据主导主体其合作模式可以分为预印本平台主导 表1 科技期刊与预印本平台协同案例情况 序号 案例 服务名称 协同方 案例简介 科技期刊 出版商 预印本平台 组织 1 期刊直接转移 Direct Journal Transfer 多种合作期刊 ChemRxiv 期刊直接转移是ChemRxiv上的免费功能这使得作者可以 更轻松地从ChemRxiv向同行评审期刊提交公开发布的预 印本目前此功能适用于美国化学会中国化学会英国 皇家化学会德国化学会以及欧洲化学出版协会的期刊 2 B2J 多种合作期刊 bioRxiv bioRxiv可以直接传输作者的手稿文件和元数据从而节省 作者向期刊或同行评审服务网站提交论文的时间这意 味着作者不必花时间重新加载稿件文件并在期刊或同行 评审服务网站上重新输入作者信息 3 M2J 多种合作期刊 medRxiv 与B2J相同 4 In Review Springer Nature Reseach Square 当作者选择加入In Review时他们的论文将作为预印本发 布并可供评论除了期刊的同行评审之外社区评论可以 帮助作者改进论文同行评审时间表允许作者和读者实 时跟踪稿件的状态 5 Under Review Wiley Authorea 加入Under Review服务后作者可以在向期刊投稿的同时 立即发布预印本尽早分享最新研究同时表明特定期刊 正在考虑发表该工作实时公开跟踪同行评审过程立即 使研究成果可引用可发现且易于共享获取可用于改进 论文的其他社区反馈 6 First Look Elsevier SSRN First Look为期刊及其作者提供了快速分享突破性研究成 果的机会作者在向First Look合作期刊投稿过程中可以 同时选择在SSRN上发布论文的预印本版本并通过SSRN 的研究社区进行传播 7 Sciety 多种合作期刊 多个预印本平台 Sciety由eLife创建旨在帮助科学家和研究人员将注意力 集中在由值得信赖的研究人员团体推荐和审查的预印本 上Sciety可以将多组研究人员聚集在一起评估和策划 他们认为有趣或重要的预印本搜索和整理大量预印本文 献帮助找到领域相关且有影响力的研究以及值得信赖 的专家的评价帮助用户创建感兴趣的预印本列表 8 PREreview 多种合作期刊 多个预印本平台 PREreview为研究人员提供支持特别是那些处于职业生 涯早期的研究人员群体以一种对他们有利的方式审查预 印本从而提升同行评审的公平和透明度 9 Review Commons EMBO Press ASAPbio Review Commons是生命科学领域高质量独立于期刊的 同行评审平台Review Commons为作者提供审定预印本 Refereed Preprints包括作者的手稿单轮同行评审报告 以及作者的回应Review Commons还促进作者直接向附 属期刊提交审定预印本以加快并简化出版流程"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 4,
+      "section_title": "Hypothesen und Vorwissen in der qualitativen",
+      "importance_rank": 2.1515151515151514,
+      "level": "H1",
+      "content": "4. Methodologie qualitativer Forschung 4.0 Einleitung 251 Uwe Flick 4.1 Design und Prozess qualitativer Forschung 252 Werner Meinefeld 4.2 Hypothesen und Vorwissen in der qualitativen Sozialforschung 265 Jo Reichertz 4.3 Abduktion, Deduktion und Induktion in der qualitativen Forschung 276 Hans Merkens 4.4 Auswahlverfahren, Sampling, Fallkonstruktion 286 Udo Kelle und Christian Erzberger 4.5 Qualitative und quantitative Methoden: kein Gegensatz 299 Uwe Flick 4.6 Triangulation in der qualitativen Forschung 309 Ines Steinke 4.7 Gütekriterien qualitativer Forschung 319 5. Qualitative Methoden und Forschungspraxis 5.0 Einleitung 332 Stephan Wolff 5.1 Wege ins Feld und ihre Varianten 334 Christel Hopf 5.2 Qualitative Interviews - ein Überblick 349"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 6,
+      "section_title": "Jo Reich ertz",
+      "importance_rank": 2.1515151515151514,
+      "level": "H1",
+      "content": "Stephan Wolff 5.15 Dokumenten- und Aktenanalyse 502 Jo Reich ertz 5.16 Objektive Hermeneutik und hermeneutische Wissenssoziolo gie 514 Jörg R. Bergmann 5.17 Konversationsanalyse 524 Hubert Knoblauch und Thomas Luckmann 5.18 Gattungsanalyse 538 lan Parker y 5.19 Die diskursanalytische Methode 546 Hans-Dieter König 5.20 Tiefenhermeneutik 556 Heinz Bude 5.21 Die Kunst der Interpretation 569 Eduard Matt 5.22 Darstellung qualitativer Forschung 578 6. Qualitative Forschung im Kontext 6.0 Einleitung 588 Christel Hopf 6.1 Forschungsethik und qualitative Forschung 589 Uwe Flick und Martin Bauer 6.2 Qualitative Forschung lehren 600 Ernst von Kardorff 6.3 Zur Verwendung qualitativer Forschung 615"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 6,
+      "section_title": "Qualitative Forschung im Kontext",
+      "importance_rank": 2.1515151515151514,
+      "level": "H1",
+      "content": "Stephan Wolff 5.15 Dokumenten- und Aktenanalyse 502 Jo Reich ertz 5.16 Objektive Hermeneutik und hermeneutische Wissenssoziolo gie 514 Jörg R. Bergmann 5.17 Konversationsanalyse 524 Hubert Knoblauch und Thomas Luckmann 5.18 Gattungsanalyse 538 lan Parker y 5.19 Die diskursanalytische Methode 546 Hans-Dieter König 5.20 Tiefenhermeneutik 556 Heinz Bude 5.21 Die Kunst der Interpretation 569 Eduard Matt 5.22 Darstellung qualitativer Forschung 578 6. Qualitative Forschung im Kontext 6.0 Einleitung 588 Christel Hopf 6.1 Forschungsethik und qualitative Forschung 589 Uwe Flick und Martin Bauer 6.2 Qualitative Forschung lehren 600 Ernst von Kardorff 6.3 Zur Verwendung qualitativer Forschung 615"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 7,
+      "section_title": "Herausforderungen qualitativer Forschung",
+      "importance_rank": 2.1515151515151514,
+      "level": "H1",
+      "content": "Hubert Knoblauch 6.4 Zukunft und Perspektiven qualitativer Forschung 623 Christian Luders 6.5 Herausforderungen qualitativer Forschung 632 Alexandre Metraux 6.6 Verfahrenskunst, Methodeninnovation und Theoriebildung in der qualitativen Sozialforschung 643 Heike Ohlbrecht 7. Serviceteil Literatur 669 Uber die Autoren 751 Personenregister 755 Sachregister 760"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 7,
+      "section_title": "Serviceteil",
+      "importance_rank": 2.1515151515151514,
+      "level": "H1",
+      "content": "Hubert Knoblauch 6.4 Zukunft und Perspektiven qualitativer Forschung 623 Christian Luders 6.5 Herausforderungen qualitativer Forschung 632 Alexandre Metraux 6.6 Verfahrenskunst, Methodeninnovation und Theoriebildung in der qualitativen Sozialforschung 643 Heike Ohlbrecht 7. Serviceteil Literatur 669 Uber die Autoren 751 Personenregister 755 Sachregister 760"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 7,
+      "section_title": "Uber die Autoren",
+      "importance_rank": 2.1515151515151514,
+      "level": "H1",
+      "content": "Hubert Knoblauch 6.4 Zukunft und Perspektiven qualitativer Forschung 623 Christian Luders 6.5 Herausforderungen qualitativer Forschung 632 Alexandre Metraux 6.6 Verfahrenskunst, Methodeninnovation und Theoriebildung in der qualitativen Sozialforschung 643 Heike Ohlbrecht 7. Serviceteil Literatur 669 Uber die Autoren 751 Personenregister 755 Sachregister 760"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 7,
+      "section_title": "Personenregister",
+      "importance_rank": 2.1515151515151514,
+      "level": "H1",
+      "content": "Hubert Knoblauch 6.4 Zukunft und Perspektiven qualitativer Forschung 623 Christian Luders 6.5 Herausforderungen qualitativer Forschung 632 Alexandre Metraux 6.6 Verfahrenskunst, Methodeninnovation und Theoriebildung in der qualitativen Sozialforschung 643 Heike Ohlbrecht 7. Serviceteil Literatur 669 Uber die Autoren 751 Personenregister 755 Sachregister 760"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 1,
+      "section_title": "Sessioni parallele",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "Sessioni parallele La formazione iniziale e continua degli insegnanti. Relazioni, comunicazione, metodi a cura di Alessia Bartolini, Federico Batini, Mina De Santis, Marco Milella Pierluigi Malavasi, Annalisa Morganti, Agnese Rosati Rosario Salvato, Alessia Signorelli, Moira Sannipoli"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 1,
+      "section_title": "La formazione iniziale",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "Sessioni parallele La formazione iniziale e continua degli insegnanti. Relazioni, comunicazione, metodi a cura di Alessia Bartolini, Federico Batini, Mina De Santis, Marco Milella Pierluigi Malavasi, Annalisa Morganti, Agnese Rosati Rosario Salvato, Alessia Signorelli, Moira Sannipoli"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 3,
+      "section_title": "Ricercatore",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "Ripensare gli spazi per cambiare il modo di abitare e fare la scuola. Dalla ricerca condivisa allanalisi dei risultati1 Andrea Zini Ricercatore Università degli Studi di Modena e Reggio Emilia andrea.ziniunimore.it Beate Weyland Professore Associato Libera Università di Bolzano beate.weylandunibz.it 1. Ripensare gli spazi Negli ultimi anni sono diverse le proposte allintersezione tra pedagogia, architet tura e design (Weyland et al., 2019; Weyland, Prey, 2020; Weyland, Leone, 2020) che evidenziano un progressivo passaggio da una concezione della scuola come luogo predefinito e quasi standardizzato, costruito secondo stereotipi dati da una cultura della frontalità e dellinculturazione, a quella di un ambiente da abitare, uno spazio domestico da rendere il più possibile aderente a un nuovo modo di concepire la relazione educativa e formativa. La scuola diventa la casa della cultura nel senso più ampio, un ambiente in cui coltivare la ricerca, lesplorazione e lela borazione del patrimonio culturale, dove aprire nuovi orizzonti per dare senso al mondo. Dal 2019 diverse scuole hanno aderito a percorsi di ricerca-azione con il gruppo di ricerca interdisciplinare che converge oggi sul laboratorio EDENLAB (EDucational ENviroments with Nature - edenlab.unibz.it) con lobiettivo di creare ambienti più confortevoli, capaci di supportare una didattica aperta, cen trata sullesplorazione e sulla cooperazione. Con il 2022, alla ripresa dopo la Pan demia, le scuole in ricerca con EDENLAB hanno esplorato anche una forma di micro-rapporto più ravvicinato con la natura, in cui le piante diventano mediatrici nellesplorazione di spazi e didattiche (Weyland, 2022). Linterazione tra scuola e università è innovativa, in quanto sono le scuole stesse che tramite convenzione e contributo alla ricerca si vanno promotrici e com mittenti di una ricerca specificamente ritagliata sui bisogni e i sogni che questa porta in grembo. Le comunità scolastiche, sempre più sensibili alle tematiche degli ambienti di apprendimento (Biondi et al., 2016, Castoldi, 2020, Biancato, 2024) partendo da richieste di consulenza e supporto in tale senso, accettano di 1 Beate Weyland è autrice dei paragrafi 1, 2; Andrea Zini è autore dei paragrafi 3, 4, 5, 6, 7. 585"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 3,
+      "section_title": "1. Ripensare gli spazi",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "Ripensare gli spazi per cambiare il modo di abitare e fare la scuola. Dalla ricerca condivisa allanalisi dei risultati1 Andrea Zini Ricercatore Università degli Studi di Modena e Reggio Emilia andrea.ziniunimore.it Beate Weyland Professore Associato Libera Università di Bolzano beate.weylandunibz.it 1. Ripensare gli spazi Negli ultimi anni sono diverse le proposte allintersezione tra pedagogia, architet tura e design (Weyland et al., 2019; Weyland, Prey, 2020; Weyland, Leone, 2020) che evidenziano un progressivo passaggio da una concezione della scuola come luogo predefinito e quasi standardizzato, costruito secondo stereotipi dati da una cultura della frontalità e dellinculturazione, a quella di un ambiente da abitare, uno spazio domestico da rendere il più possibile aderente a un nuovo modo di concepire la relazione educativa e formativa. La scuola diventa la casa della cultura nel senso più ampio, un ambiente in cui coltivare la ricerca, lesplorazione e lela borazione del patrimonio culturale, dove aprire nuovi orizzonti per dare senso al mondo. Dal 2019 diverse scuole hanno aderito a percorsi di ricerca-azione con il gruppo di ricerca interdisciplinare che converge oggi sul laboratorio EDENLAB (EDucational ENviroments with Nature - edenlab.unibz.it) con lobiettivo di creare ambienti più confortevoli, capaci di supportare una didattica aperta, cen trata sullesplorazione e sulla cooperazione. Con il 2022, alla ripresa dopo la Pan demia, le scuole in ricerca con EDENLAB hanno esplorato anche una forma di micro-rapporto più ravvicinato con la natura, in cui le piante diventano mediatrici nellesplorazione di spazi e didattiche (Weyland, 2022). Linterazione tra scuola e università è innovativa, in quanto sono le scuole stesse che tramite convenzione e contributo alla ricerca si vanno promotrici e com mittenti di una ricerca specificamente ritagliata sui bisogni e i sogni che questa porta in grembo. Le comunità scolastiche, sempre più sensibili alle tematiche degli ambienti di apprendimento (Biondi et al., 2016, Castoldi, 2020, Biancato, 2024) partendo da richieste di consulenza e supporto in tale senso, accettano di 1 Beate Weyland è autrice dei paragrafi 1, 2; Andrea Zini è autore dei paragrafi 3, 4, 5, 6, 7. 585"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 4,
+      "section_title": "2. La variabile della natura indoor",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "investire energie e risorse per lavorare in ricerca su nuovi modi di fare scuola e di svolgere un percorso sperimentale e esplorativo. In prima battuta i percorsi di ricerca-formazione e ricerca-azione sono stati centrati sulla focalizzazione delle questioni per nulla scontate della definizione chiara di dove e come si vuole educare, come e dove si pensa che i bambini deb bano imparare, se, dove e soprattutto quando i bambini è importante che gio chino, che parlino, che leggano, che esplorino (Weyland, Galletti, 2018). Le attività si sono quindi concentrate sullo sviluppo dellidentità pedagogica delle scuole, sulla maturazione di competenza nel riconoscere in modo puntuale le qualità degli spazi architettonici fino ad arrivare a vere e proprie esperienze di appropriazione dello spazio educativo e didattico. In questo processo si è notato che le piante da interno possono essere valide alleate sia per lesplorazione e appropriazione dello spazio, sia per raggiungere gli obiettivi di trasformazione della didattica. 2. La variabile della natura indoor Le collaborazioni con le scuole, soprattutto negli ultimi due anni manifestano un dato molto interessante: prendersi cura di una pianta ogni giorno, sceglierla, farla crescere, osservarla, addirittura giocare e imparare da lei e con lei, diventano gesti educativi straordinari che scombinano lassetto tradizionale del fare scuola a fa vore non solo di un benessere dovuto alla presenza del verde in un ambiente chiuso e povero, ma di tempi e modi che contribuiscono alla maturazione di un curricolo di competenze più orientate alla domanda e alla ricerca, alle attività su progetto, agli impegni in ambito green. In particolare, la presenza e interazione con i vegetali negli spazi scolastici (in terni e esterni) sembra generare un cambio di paradigma e aprire alla scoperta dello spazio architettonico: dove mettiamo le piante? quanto spazio occupano? quando le curiamo? quanto possono contribuire alla creazione di un ambiente ef ficace per imparare, ma anche dinamico e cooperativo e al contempo riservato e di relax? Allo stesso tempo impegnano nello scardinamento delle priorità didattiche, la sciando spazio al tempo della cura, dellesplorazione e della ricerca con i bambini. I lavori di formazione e ricerca-azione poggiano su una serie di studi ormai molto noti tra cui in particolare la ricerca Clever Classroom (Barrett et al., 2015), che dimostra come le condizioni di comfort progettuali che emulano le condizioni naturali (qualità dellaria, illuminazione, temperatura, materiali) e che sono sti molanti e personalizzabili, influenzano chiaramente la qualità dellapprendimento. Questo fatto è potenziato se nellambiente si trovano piante, questo è già noto ai contesti delle scienze naturali che rilevano i vantaggi della presenza dei vegetali in spazi interni per garantire lumidificazione e il ricambio dellaria negli ambienti, ma anche perché favorisce lattenzione e la concentrazione, oltre a un diffuso senso di benessere percepito (Han et al., 2017; Mancuso, 2017; Kuo, 2015). Panel 3  Terzo Gruppo  LEfficacia della pedagogia e della didattica nella formazione iniziale... 586"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "section_title": "Inhalt",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung gemacht wird - paradigmatische Forschungsstile 2.0 Einleitung 30 Bruno Hildenbrand 2.1 Anselm Strauss 32 Herbert Willems 2.2 Erving Goffmans Forschungsstil 42 Jörg R. Bergmann 2.3 Harold Garfinkel und Harvey Sacks 51 Rolf Lindner 2.4 Paul Willis und das Centre for Contemporary Cultural Stu- dies 63 Maya Nadig und Johannes Reichmayr 2.5 Paul Parin, Fritz Morgenthaler und Goldy Parin-Matthey 72 Stephan Wolff 2.6 Clifford Geertz 84 Yvonna S. Lincoln 2.1 Norman K. Denzin - ein Leben in Bewegung 96"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "section_title": "Vorwort",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung gemacht wird - paradigmatische Forschungsstile 2.0 Einleitung 30 Bruno Hildenbrand 2.1 Anselm Strauss 32 Herbert Willems 2.2 Erving Goffmans Forschungsstil 42 Jörg R. Bergmann 2.3 Harold Garfinkel und Harvey Sacks 51 Rolf Lindner 2.4 Paul Willis und das Centre for Contemporary Cultural Stu- dies 63 Maya Nadig und Johannes Reichmayr 2.5 Paul Parin, Fritz Morgenthaler und Goldy Parin-Matthey 72 Stephan Wolff 2.6 Clifford Geertz 84 Yvonna S. Lincoln 2.1 Norman K. Denzin - ein Leben in Bewegung 96"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "section_title": "Wie qualitative Forschung gemacht wird",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung gemacht wird - paradigmatische Forschungsstile 2.0 Einleitung 30 Bruno Hildenbrand 2.1 Anselm Strauss 32 Herbert Willems 2.2 Erving Goffmans Forschungsstil 42 Jörg R. Bergmann 2.3 Harold Garfinkel und Harvey Sacks 51 Rolf Lindner 2.4 Paul Willis und das Centre for Contemporary Cultural Stu- dies 63 Maya Nadig und Johannes Reichmayr 2.5 Paul Parin, Fritz Morgenthaler und Goldy Parin-Matthey 72 Stephan Wolff 2.6 Clifford Geertz 84 Yvonna S. Lincoln 2.1 Norman K. Denzin - ein Leben in Bewegung 96"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "section_title": "Harold Garfinkel und Harvey Sacks",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung gemacht wird - paradigmatische Forschungsstile 2.0 Einleitung 30 Bruno Hildenbrand 2.1 Anselm Strauss 32 Herbert Willems 2.2 Erving Goffmans Forschungsstil 42 Jörg R. Bergmann 2.3 Harold Garfinkel und Harvey Sacks 51 Rolf Lindner 2.4 Paul Willis und das Centre for Contemporary Cultural Stu- dies 63 Maya Nadig und Johannes Reichmayr 2.5 Paul Parin, Fritz Morgenthaler und Goldy Parin-Matthey 72 Stephan Wolff 2.6 Clifford Geertz 84 Yvonna S. Lincoln 2.1 Norman K. Denzin - ein Leben in Bewegung 96"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "section_title": "Paul Willis und das Centre for Contemporary Cultural",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung gemacht wird - paradigmatische Forschungsstile 2.0 Einleitung 30 Bruno Hildenbrand 2.1 Anselm Strauss 32 Herbert Willems 2.2 Erving Goffmans Forschungsstil 42 Jörg R. Bergmann 2.3 Harold Garfinkel und Harvey Sacks 51 Rolf Lindner 2.4 Paul Willis und das Centre for Contemporary Cultural Stu- dies 63 Maya Nadig und Johannes Reichmayr 2.5 Paul Parin, Fritz Morgenthaler und Goldy Parin-Matthey 72 Stephan Wolff 2.6 Clifford Geertz 84 Yvonna S. Lincoln 2.1 Norman K. Denzin - ein Leben in Bewegung 96"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "section_title": "Maya Nadig und Johannes Reichmayr",
+      "importance_rank": 2.0,
+      "level": "H1",
+      "content": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung gemacht wird - paradigmatische Forschungsstile 2.0 Einleitung 30 Bruno Hildenbrand 2.1 Anselm Strauss 32 Herbert Willems 2.2 Erving Goffmans Forschungsstil 42 Jörg R. Bergmann 2.3 Harold Garfinkel und Harvey Sacks 51 Rolf Lindner 2.4 Paul Willis und das Centre for Contemporary Cultural Stu- dies 63 Maya Nadig und Johannes Reichmayr 2.5 Paul Parin, Fritz Morgenthaler und Goldy Parin-Matthey 72 Stephan Wolff 2.6 Clifford Geertz 84 Yvonna S. Lincoln 2.1 Norman K. Denzin - ein Leben in Bewegung 96"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 8,
+      "section_title": "7. Conclusioni",
+      "importance_rank": 1.706060606060606,
+      "level": "H1",
+      "content": "percettiva e simbolica degli spazi (definite in termini di benessere fisico e affettivo, comfort, gradevolezza, senso di appartenenza, che può manifestarsi in forma di cura, attaccamento), la qualità educativa degli spazi per lapprendimento e per linsegnamento, laccesso e la fruizione effettiva degli spazi per attività curricolari o extracurricolari. Sono associati alle risorse personali i risultati relativi allo sviluppo professionale degli insegnanti (arricchimento del repertorio delle strategie didattiche, riflessione sul contesto e sui processi di apprendimento, determinazione degli obiettivi) e al linnovazione nelle pratiche pratiche quotidiane di osservazione e di insegnamento. Sono associati allambiente sociale i risultati che attengono: la moltiplicazione di azioni coerenti con quelle realizzate nel percorso; il trasferimento interpersonale e lallargamento della base degli interessati; la realizzazione di attività formative o di progettazione condivisa suggerite dallesperienza del percorso EDEN, oppure legate agli spazi coinvolti nel percorso o al loro utilizzo; lintroduzione di cambia menti nellorganizzazione, nel curricolo, nel Piano dellOfferta Formativa; lo scam bio di esperienze e progetti tematici tra gli insegnanti e tra le scuole dellistituto, o la costruzione di reti formative e di scambio di esperienze con insegnanti e scuole di altri istituti; linformazione rivolta alla comunità locale sul percorso EDEN, luso degli spazi per attività promosse o partecipate da enti o associazioni del ter ritorio, lattivazione della comunità locale a supporto delle attività del percorso EDEN; linformazione dei genitori riguardo il percorso, il loro accesso agli spazi per attività programmate o in momenti ordinari della giornata scolastica, la loro attivazione a supporto delle attività; linformazione e il coinvolgimento del perso nale tecnico nelle attività, la sua attivazione per la cura e per la gestione degli spazi coinvolti nel percorso EDEN. 7. Conclusioni Un primo strumento di raccolta dei dati è stato predisposto per mettere alla prova il modello e la possibilità di definire indicatori adatti a misurare i risultati nella forma provvisoria di un questionario individuale somministrato alle insegnanti nella fase conclusiva di uno dei recenti percorsi EDEN, prima dellincontro finale in cui condurre unanalisi congiunta dei dati raccolti e ricavarne indicazioni per la sostenibilità del processo. Le prime applicazioni di questo strumento suggeri scono che la presenza di domande aperte sia da ritenere indispensabile, sia per convalidare linterpretazione di alcuni quesiti strutturati, sia per raccogliere ulte riori informazioni riguardo eventuali risultati inattesi (positivi o negativi), ostacoli o fattori che hanno agevolato il percorso. In conclusione, il modello proposto sembra offrire un quadro adeguato sia per dare ragione degli esiti dei singoli interventi a diversi livelli (micro - cambiamento individuale, meso - cambiamento nelle organizzazioni, macro - cambiamento nelle comunità), sia per fare convergere i dati raccolti dalle diverse esperienze in un piano di ricerca sulla ricerca condivisa che il laboratorio realizza con le scuole. Panel 3  Terzo Gruppo  LEfficacia della pedagogia e della didattica nella formazione iniziale... 590"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 3,
+      "section_title": "Ethnomethodologie",
+      "importance_rank": 1.706060606060606,
+      "level": "H1",
+      "content": "3. Theorie qualitativer Forschung 3.0 Einleitung 106 Ronald Hitzler und Thomas S. Eberle 3.1 Phänomenologische Lebensweltanalyse 109 Jörg R. Bergmann 3.2 Ethnomethodologie 118 Norman K. Denzin 3.3 Symbolischer Interaktionismus 136 Uwe Flick 3.4 Konstruktivismus 150 Hans-Georg Soeffner 3.5 Sozialwissenschaftliche Hermeneutik 164 Winfried Marotzki 3.6 Qualitative Biographieforschung 175 Heinz Bude 3.7 Qualitative Generationsforschung 187 Anne Honer 3.8 Lebensweltanalyse in der Ethnographie 194 Rainer Winter 3.9 Cultural Studies 204 Regine Gildemeister 3.10 Geschlechterforschung (gender studies) 213 Lutz von Rosenstiel 3.11 Organisationsanalyse 224 Ernst von Kardorff 3.12 Qualitative Evaluationsforschung 238"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 9,
+      "section_title": "Bibliografia",
+      "importance_rank": 1.206060606060606,
+      "level": "H1",
+      "content": "Bibliografia Agrusti G., Dodman M. (2021). Valutare limpatto della Ricerca-Formazione sullo svi luppo professionale dellinsegnante. Questioni metodologiche e modelli operativi. Ri cercAzione, 13(2), 75-84. Barrett P. S., Zhang Y., Davies F., Barrett L. C. (2015). Clever classrooms: Summary report of the HEAD project. University of Salford. Bondioli A., Ferrari M. (eds.). (2004). Verso un modello di valutazione formativa. Ragioni, strumenti e percorsi. Bergamo: Junior. Bondioli A., Savio D. (2014). Valutare la valutazione: una questione metodologica appli cata ad un caso di valutazione riflessiva partecipata in asilo nido. Italian Journal of Edu cational Research, (13), 49-68. Bondioli A., Savio D. (2018). Promuovere dallinterno: la ricerca come formazione. In G. Asquini (ed.), La Ricerca-Formazione. Temi, esperienze, prospettive (pp. 75-83). Mi lano: FrancoAngeli. Cardarello R. (2018). Dimensioni metodologiche nella Ricerca-Formazione. In G. Asquini (ed.), La Ricerca-Formazione. Temi, esperienze, prospettive (pp. 42-51). Milano: Fran coAngeli. Castoldi M. (2020). Ambienti di apprendimento: ripensare il modello organizzativo della scuola. Roma: Carocci. Kuo M. (2015). How might contact with nature promote human health? Promising me chanisms and a possible central pathway. Frontiers in Psychology, 6. DOI: 10.3389  fpsyg.2015.01093. Losito B. (2018). Contesti e risorse per la Ricerca-Formazione. In Asquini, G. (ed.), La Ricerca-Formazione. Temi, esperienze, prospettive (pp. 65-76). Milano: FrancoAngeli. Mancuso S. (2017). Rivoluzione vegetale. Milano: Giunti. Mignosi E. (2012). Lesperienza formativa come opportunità di apprendimento organiz zativo per la scuola. Studi sulla Formazione, 15(1), 53-67. Mortari L., Silva R., Zanotti A. (2020). Quando il Service Learning pone la ricerca edu cativa a servizio della formazione docente e dellinnovazione didattica: il caso Resol ving Robots. RicercAzione, 12(1), 83-105. Reed M. S., Ferré M., Martin-Ortega, J., Blanche R., Lawford-Rolfe R., Dallimer M., Holden J. (2021). Evaluating impact from research: A methodological framework. Re search Policy, 50(4). DOI: 10.1016j.respol.2020.104147. Schratz M., Steiner-Löffler U. (1999). Die Lernende Schule. Arbeitsbuch pädagogische Schu lentwicklung. Weinheim: Beltz-Verlag (trad. it. La Scuola che apprende. Strutture e pro cessi di sviluppo formativo, La Scuola, Brescia, 2001). Weyland B., Galletti A. (2018), Lo spazio che educa, Bergamo: Junior. Weyland B., Stadler-Altmann U., Galletti A., Prey, K. (2019). Scuole in movimento tra pe dagogia, architettura e design. Milano: Franco Angeli. Weyland B., Prey K. (2020), Ridisegnare la scuola tra didattica architettura e design. Milano: Guerini e Associati. Weyland B., Leone T. (2020). Laboratori attivi di democrazia tra spazi e didattiche. Milano: Guerini e Associati. Weyland B., Zini A. (2023). Fare ricerca e azione con gli insegnanti: scuola e università come comunità in ricerca. In Fabbri M., Malavasi P., Rosa,A., Vannini I. (eds.), Sistemi educativi, Orientamento, Lavoro (pp. 1282-1285). Lecce: Pensa Multimedia. Panel 3  Terzo Gruppo  LEfficacia della pedagogia e della didattica nella formazione iniziale... 591"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 8,
+      "section_title": "Sono associati alle risorse personali i risultati relativi allo sviluppo professionale",
+      "importance_rank": 0.9030303030303031,
+      "level": "H1",
+      "content": "percettiva e simbolica degli spazi (definite in termini di benessere fisico e affettivo, comfort, gradevolezza, senso di appartenenza, che può manifestarsi in forma di cura, attaccamento), la qualità educativa degli spazi per lapprendimento e per linsegnamento, laccesso e la fruizione effettiva degli spazi per attività curricolari o extracurricolari. Sono associati alle risorse personali i risultati relativi allo sviluppo professionale degli insegnanti (arricchimento del repertorio delle strategie didattiche, riflessione sul contesto e sui processi di apprendimento, determinazione degli obiettivi) e al linnovazione nelle pratiche pratiche quotidiane di osservazione e di insegnamento. Sono associati allambiente sociale i risultati che attengono: la moltiplicazione di azioni coerenti con quelle realizzate nel percorso; il trasferimento interpersonale e lallargamento della base degli interessati; la realizzazione di attività formative o di progettazione condivisa suggerite dallesperienza del percorso EDEN, oppure legate agli spazi coinvolti nel percorso o al loro utilizzo; lintroduzione di cambia menti nellorganizzazione, nel curricolo, nel Piano dellOfferta Formativa; lo scam bio di esperienze e progetti tematici tra gli insegnanti e tra le scuole dellistituto, o la costruzione di reti formative e di scambio di esperienze con insegnanti e scuole di altri istituti; linformazione rivolta alla comunità locale sul percorso EDEN, luso degli spazi per attività promosse o partecipate da enti o associazioni del ter ritorio, lattivazione della comunità locale a supporto delle attività del percorso EDEN; linformazione dei genitori riguardo il percorso, il loro accesso agli spazi per attività programmate o in momenti ordinari della giornata scolastica, la loro attivazione a supporto delle attività; linformazione e il coinvolgimento del perso nale tecnico nelle attività, la sua attivazione per la cura e per la gestione degli spazi coinvolti nel percorso EDEN. 7. Conclusioni Un primo strumento di raccolta dei dati è stato predisposto per mettere alla prova il modello e la possibilità di definire indicatori adatti a misurare i risultati nella forma provvisoria di un questionario individuale somministrato alle insegnanti nella fase conclusiva di uno dei recenti percorsi EDEN, prima dellincontro finale in cui condurre unanalisi congiunta dei dati raccolti e ricavarne indicazioni per la sostenibilità del processo. Le prime applicazioni di questo strumento suggeri scono che la presenza di domande aperte sia da ritenere indispensabile, sia per convalidare linterpretazione di alcuni quesiti strutturati, sia per raccogliere ulte riori informazioni riguardo eventuali risultati inattesi (positivi o negativi), ostacoli o fattori che hanno agevolato il percorso. In conclusione, il modello proposto sembra offrire un quadro adeguato sia per dare ragione degli esiti dei singoli interventi a diversi livelli (micro - cambiamento individuale, meso - cambiamento nelle organizzazioni, macro - cambiamento nelle comunità), sia per fare convergere i dati raccolti dalle diverse esperienze in un piano di ricerca sulla ricerca condivisa che il laboratorio realizza con le scuole. Panel 3  Terzo Gruppo  LEfficacia della pedagogia e della didattica nella formazione iniziale... 590"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 3,
+      "section_title": "Theorie qualitativer Forschung",
+      "importance_rank": 0.9030303030303031,
+      "level": "H1",
+      "content": "3. Theorie qualitativer Forschung 3.0 Einleitung 106 Ronald Hitzler und Thomas S. Eberle 3.1 Phänomenologische Lebensweltanalyse 109 Jörg R. Bergmann 3.2 Ethnomethodologie 118 Norman K. Denzin 3.3 Symbolischer Interaktionismus 136 Uwe Flick 3.4 Konstruktivismus 150 Hans-Georg Soeffner 3.5 Sozialwissenschaftliche Hermeneutik 164 Winfried Marotzki 3.6 Qualitative Biographieforschung 175 Heinz Bude 3.7 Qualitative Generationsforschung 187 Anne Honer 3.8 Lebensweltanalyse in der Ethnographie 194 Rainer Winter 3.9 Cultural Studies 204 Regine Gildemeister 3.10 Geschlechterforschung (gender studies) 213 Lutz von Rosenstiel 3.11 Organisationsanalyse 224 Ernst von Kardorff 3.12 Qualitative Evaluationsforschung 238"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 3,
+      "section_title": "Konstruktivismus",
+      "importance_rank": 0.9030303030303031,
+      "level": "H1",
+      "content": "3. Theorie qualitativer Forschung 3.0 Einleitung 106 Ronald Hitzler und Thomas S. Eberle 3.1 Phänomenologische Lebensweltanalyse 109 Jörg R. Bergmann 3.2 Ethnomethodologie 118 Norman K. Denzin 3.3 Symbolischer Interaktionismus 136 Uwe Flick 3.4 Konstruktivismus 150 Hans-Georg Soeffner 3.5 Sozialwissenschaftliche Hermeneutik 164 Winfried Marotzki 3.6 Qualitative Biographieforschung 175 Heinz Bude 3.7 Qualitative Generationsforschung 187 Anne Honer 3.8 Lebensweltanalyse in der Ethnographie 194 Rainer Winter 3.9 Cultural Studies 204 Regine Gildemeister 3.10 Geschlechterforschung (gender studies) 213 Lutz von Rosenstiel 3.11 Organisationsanalyse 224 Ernst von Kardorff 3.12 Qualitative Evaluationsforschung 238"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 3,
+      "section_title": "Lebensweltanalyse in der Ethnographie",
+      "importance_rank": 0.9030303030303031,
+      "level": "H1",
+      "content": "3. Theorie qualitativer Forschung 3.0 Einleitung 106 Ronald Hitzler und Thomas S. Eberle 3.1 Phänomenologische Lebensweltanalyse 109 Jörg R. Bergmann 3.2 Ethnomethodologie 118 Norman K. Denzin 3.3 Symbolischer Interaktionismus 136 Uwe Flick 3.4 Konstruktivismus 150 Hans-Georg Soeffner 3.5 Sozialwissenschaftliche Hermeneutik 164 Winfried Marotzki 3.6 Qualitative Biographieforschung 175 Heinz Bude 3.7 Qualitative Generationsforschung 187 Anne Honer 3.8 Lebensweltanalyse in der Ethnographie 194 Rainer Winter 3.9 Cultural Studies 204 Regine Gildemeister 3.10 Geschlechterforschung (gender studies) 213 Lutz von Rosenstiel 3.11 Organisationsanalyse 224 Ernst von Kardorff 3.12 Qualitative Evaluationsforschung 238"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 3,
+      "section_title": "Lutz von Rosenstiel",
+      "importance_rank": 0.9030303030303031,
+      "level": "H1",
+      "content": "3. Theorie qualitativer Forschung 3.0 Einleitung 106 Ronald Hitzler und Thomas S. Eberle 3.1 Phänomenologische Lebensweltanalyse 109 Jörg R. Bergmann 3.2 Ethnomethodologie 118 Norman K. Denzin 3.3 Symbolischer Interaktionismus 136 Uwe Flick 3.4 Konstruktivismus 150 Hans-Georg Soeffner 3.5 Sozialwissenschaftliche Hermeneutik 164 Winfried Marotzki 3.6 Qualitative Biographieforschung 175 Heinz Bude 3.7 Qualitative Generationsforschung 187 Anne Honer 3.8 Lebensweltanalyse in der Ethnographie 194 Rainer Winter 3.9 Cultural Studies 204 Regine Gildemeister 3.10 Geschlechterforschung (gender studies) 213 Lutz von Rosenstiel 3.11 Organisationsanalyse 224 Ernst von Kardorff 3.12 Qualitative Evaluationsforschung 238"
+    },
+    {
+      "document": "Ankuran (Pratham Bhag) (Language (L1))_Class 1_Assamese medium",
+      "page_number": 4,
+      "section_title": "Free textbook",
+      "importance_rank": 0.7515151515151515,
+      "level": "H1",
+      "content": "ANKURAN : PRATHAM BHAG  An integrated textbook-cum-workbook for Class I, in Assamese, developed and reviewed by SCERT, Assam, through workshops and approved by the Government of Assam and published by the Assam State Textbook Production and Publication Corporation Limited, on behalf of Government of Assam. ALL RIGHTS RESERVED : No reproduction in any form of this book, in whole or in part (except for brief quotation in critical articles or reviews), may be made without written authorization from the SCERT, Assam. LöQ  1øÊﬂ øé-ÀªÌ 1n õøéÌ Ûø1,  Free textbook õÔ õﬂ  2010  Ú øZÓœ õﬂ  2011  Ú ÓÓœ õﬂ  2012  Ú ÓÔ õﬂ  2013  Ú Û õﬂ  2014  Ú á õﬂ  2015  Ú 5 õﬂ  2016  Ú Ü õﬂ  2017  Ú Úª õﬂ  2018  Ú  õﬂ  2019  Ú ﬂ õﬂ  2020  Ú Z õﬂ  2021  Ú SÀ õﬂ  2022  Ú õﬂﬂ   1ﬂ11 Z1 øıÚœÕﬂ øıÓ1Ì1 ıÀı  1øÊﬂ ÛÍÛøÔ õÌÚ 1n õﬂÚ øÚ øøÀÈÎ1 Z1 õﬂøÓ ÛÍÛøÔº ﬂ  ii Copyright-SCERT, Assam not to be republished"
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "科技期刊与预印本平台协同发展路径与策略研究",
+      "page_number": 9,
+      "refined_text": "2024 年 5 月 第 35 卷 第 5 期 576 http:www.cjstp.cn 中国科技期刊研究2024355 19 Sciety. More about why Sciety was createdEB OL. 2024- 03-21. https blog.sciety.org more-about-sciety . 20 Review Commons. AboutEB OL. 2...",
+      "importance_rank": 2.909090909090909,
+      "parent_section": "Collaborative development path and strategy of scientific journal"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 6,
+      "refined_text": "4. La valutazione degli esiti di progetti di ricerca condivisa Nel piano di sviluppo del laboratorio EDEN (Weyland, Zini, 2023) vi è lobiettivo di mettere a punto modelli, metodi e dispositivi per stu...",
+      "importance_rank": 2.303030303030303,
+      "parent_section": "4. La valutazione degli esiti di progetti di ricerca condivisa"
+    },
+    {
+      "document": "科技期刊与预印本平台协同发展路径与策略研究",
+      "page_number": 2,
+      "refined_text": "刘敬仪杨 恒初景利. 科技期刊与预印本平台协同发展路径与策略研究 http:www.cjstp.cn 569 中国科技期刊研究2024355 析缺少对协同发展路径的总结据此本研究以科 技期刊与预印本平台合作提供服务的代表性案例为 样本揭示科技期刊与预印本平台协同发展的合作 模式挖掘并分析二者的协同路径提出科技期刊与 预印本平台的协同发展策略为构建互利互惠共建 共生有效互补可持续发展的新型学术交流模...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "EMBO Press"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 7,
+      "refined_text": "Nel seguito vengono esposti, in forma provvisoria, alcuni dei risultati raccolti nel percorso di definizione delle possibili dimensioni comuni degli esiti apprezzabili nella molteplicità dei progetti ...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "5. Un modello per la classificazione dei risultati"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 4,
+      "refined_text": "4. Methodologie qualitativer Forschung 4.0 Einleitung 251 Uwe Flick 4.1 Design und Prozess qualitativer Forschung 252 Werner Meinefeld 4.2 Hypothesen und Vorwissen in der qualitativen Sozialforschung ...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "Methodologie qualitativer Forschung"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 4,
+      "refined_text": "4. Methodologie qualitativer Forschung 4.0 Einleitung 251 Uwe Flick 4.1 Design und Prozess qualitativer Forschung 252 Werner Meinefeld 4.2 Hypothesen und Vorwissen in der qualitativen Sozialforschung ...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "Qualitative Methoden und Forschungspraxis"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 4,
+      "refined_text": "4. Methodologie qualitativer Forschung 4.0 Einleitung 251 Uwe Flick 4.1 Design und Prozess qualitativer Forschung 252 Werner Meinefeld 4.2 Hypothesen und Vorwissen in der qualitativen Sozialforschung ...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "Hypothesen und Vorwissen in der qualitativen"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 6,
+      "refined_text": "Stephan Wolff 5.15 Dokumenten- und Aktenanalyse 502 Jo Reich ertz 5.16 Objektive Hermeneutik und hermeneutische Wissenssoziolo gie 514 Jörg R. Bergmann 5.17 Konversationsanalyse 524 Hubert Knoblauch u...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "Jo Reich ertz"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 6,
+      "refined_text": "Stephan Wolff 5.15 Dokumenten- und Aktenanalyse 502 Jo Reich ertz 5.16 Objektive Hermeneutik und hermeneutische Wissenssoziolo gie 514 Jörg R. Bergmann 5.17 Konversationsanalyse 524 Hubert Knoblauch u...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "Qualitative Forschung im Kontext"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 7,
+      "refined_text": "Hubert Knoblauch 6.4 Zukunft und Perspektiven qualitativer Forschung 623 Christian Luders 6.5 Herausforderungen qualitativer Forschung 632 Alexandre Metraux 6.6 Verfahrenskunst, Methodeninnovation und...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "Herausforderungen qualitativer Forschung"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 7,
+      "refined_text": "Hubert Knoblauch 6.4 Zukunft und Perspektiven qualitativer Forschung 623 Christian Luders 6.5 Herausforderungen qualitativer Forschung 632 Alexandre Metraux 6.6 Verfahrenskunst, Methodeninnovation und...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "Serviceteil"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 7,
+      "refined_text": "Hubert Knoblauch 6.4 Zukunft und Perspektiven qualitativer Forschung 623 Christian Luders 6.5 Herausforderungen qualitativer Forschung 632 Alexandre Metraux 6.6 Verfahrenskunst, Methodeninnovation und...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "Uber die Autoren"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 7,
+      "refined_text": "Hubert Knoblauch 6.4 Zukunft und Perspektiven qualitativer Forschung 623 Christian Luders 6.5 Herausforderungen qualitativer Forschung 632 Alexandre Metraux 6.6 Verfahrenskunst, Methodeninnovation und...",
+      "importance_rank": 2.1515151515151514,
+      "parent_section": "Personenregister"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 1,
+      "refined_text": "Sessioni parallele La formazione iniziale e continua degli insegnanti. Relazioni, comunicazione, metodi a cura di Alessia Bartolini, Federico Batini, Mina De Santis, Marco Milella Pierluigi Malavasi, ...",
+      "importance_rank": 2.0,
+      "parent_section": "Sessioni parallele"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 1,
+      "refined_text": "Sessioni parallele La formazione iniziale e continua degli insegnanti. Relazioni, comunicazione, metodi a cura di Alessia Bartolini, Federico Batini, Mina De Santis, Marco Milella Pierluigi Malavasi, ...",
+      "importance_rank": 2.0,
+      "parent_section": "La formazione iniziale"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 3,
+      "refined_text": "Ripensare gli spazi per cambiare il modo di abitare e fare la scuola. Dalla ricerca condivisa allanalisi dei risultati1 Andrea Zini Ricercatore Università degli Studi di Modena e Reggio Emilia andrea....",
+      "importance_rank": 2.0,
+      "parent_section": "Ricercatore"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 3,
+      "refined_text": "Ripensare gli spazi per cambiare il modo di abitare e fare la scuola. Dalla ricerca condivisa allanalisi dei risultati1 Andrea Zini Ricercatore Università degli Studi di Modena e Reggio Emilia andrea....",
+      "importance_rank": 2.0,
+      "parent_section": "1. Ripensare gli spazi"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 4,
+      "refined_text": "investire energie e risorse per lavorare in ricerca su nuovi modi di fare scuola e di svolgere un percorso sperimentale e esplorativo. In prima battuta i percorsi di ricerca-formazione e ricerca-azion...",
+      "importance_rank": 2.0,
+      "parent_section": "2. La variabile della natura indoor"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "refined_text": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung ...",
+      "importance_rank": 2.0,
+      "parent_section": "Inhalt"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "refined_text": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung ...",
+      "importance_rank": 2.0,
+      "parent_section": "Vorwort"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "refined_text": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung ...",
+      "importance_rank": 2.0,
+      "parent_section": "Wie qualitative Forschung gemacht wird"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "refined_text": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung ...",
+      "importance_rank": 2.0,
+      "parent_section": "Harold Garfinkel und Harvey Sacks"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "refined_text": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung ...",
+      "importance_rank": 2.0,
+      "parent_section": "Paul Willis und das Centre for Contemporary Cultural"
+    },
+    {
+      "document": "e01_978-3-499-55628-9_01_006298746",
+      "page_number": 2,
+      "refined_text": "Inhalt Uwe Flick, Ernst von Kardorff und Ines Steinke Vorwort 11 Uwe Flick, Ernst von Kardorff und Ines Steinke 1. Was ist qualitative Forschung? Einleitung und Überblick 2. Wie qualitative Forschung ...",
+      "importance_rank": 2.0,
+      "parent_section": "Maya Nadig und Johannes Reichmayr"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 9,
+      "refined_text": "Bibliografia Agrusti G., Dodman M. (2021). Valutare limpatto della Ricerca-Formazione sullo svi luppo professionale dellinsegnante. Questioni metodologiche e modelli operativi. Ri cercAzione, 13(2), 7...",
+      "importance_rank": 1.206060606060606,
+      "parent_section": "Bibliografia"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 8,
+      "refined_text": "percettiva e simbolica degli spazi (definite in termini di benessere fisico e affettivo, comfort, gradevolezza, senso di appartenenza, che può manifestarsi in forma di cura, attaccamento), la qualità ...",
+      "importance_rank": 0.9030303030303031,
+      "parent_section": "7. Conclusioni"
+    },
+    {
+      "document": "Zini+Weyland+2025+Atti+SIPED+Perugia",
+      "page_number": 8,
+      "refined_text": "percettiva e simbolica degli spazi (definite in termini di benessere fisico e affettivo, comfort, gradevolezza, senso di appartenenza, che può manifestarsi in forma di cura, attaccamento), la qualità ...",
+      "importance_rank": 0.9030303030303031,
+      "parent_section": "Sono associati alle risorse personali i risultati relativi allo sviluppo professionale"
+    },
+    {
+      "document": "Ankuran (Pratham Bhag) (Language (L1))_Class 1_Assamese medium",
+      "page_number": 4,
+      "refined_text": "ANKURAN : PRATHAM BHAG  An integrated textbook-cum-workbook for Class I, in Assamese, developed and reviewed by SCERT, Assam, through workshops and approved by the Government of Assam and published by...",
+      "importance_rank": 0.7515151515151515,
+      "parent_section": "Free textbook"
+    }
+  ]
+}
